@@ -1,0 +1,5 @@
+path: C:\Users\edw50\Documents\training with labels\pythonProject
+train: C:\Users\edw50\Documents\training with labels\images\tracing
+val: C:\Users\edw50\Documents\training with labels\images\tracing
+names:
+  0: tracing
